@@ -117,6 +117,7 @@ Located in `Short_Video_JSON_Size8/`, each file contains:
 | CLIP             | Vector similarity from query to frame/shot          |
 | Caption (BLIP)   | Caption embedding from pretrained BLIP model        |
 | Caption (LLM)    | Refined captions embedded via LLM (GPT-4)           |
+| OCR (TF-IDF)     | Vector similarity based on text appears on frame    |
 | Re-ranking (LLM) | Use LLM to re-rank top-K based on caption alignment |
 | Shot alignment   | Optional DP alignment for multi-shot queries        |
 
