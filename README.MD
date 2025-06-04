@@ -1,7 +1,3 @@
-Dưới đây là phiên bản đầy đủ hơn của file `README.md`, bao gồm mô tả tổng quan về project, các chức năng chính, và layout dữ liệu — phù hợp cho người đọc hiểu rõ mục tiêu và cách sử dụng hệ thống retrieval này:
-
----
-
 # 🗞️ News-Events Retrieval System
 
 This project builds a **video retrieval system** specialized for **news and event footage**. It allows users to search for relevant video segments using **text descriptions**, ranging from simple concrete queries to complex multi-scene abstract queries.
